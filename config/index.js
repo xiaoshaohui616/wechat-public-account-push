@@ -24,7 +24,7 @@ export const config = {
    *    // 你想对他发送的模板消息的模板ID
    *    useTemplateId: "Xhnjl_6Zq8RXAzD-72DxpE0O25tu-DFcIJ5AQvORRE0",
    *    // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
-   *    openUrl: "https://wangxinleo.cn"
+   *    openUrl: "https://www.heytea.com/"
    *   }, 
    * ]
    */
@@ -134,7 +134,7 @@ export const config = {
 
   // 好文节选的内容类型
   // 可以填写【动画，漫画，游戏，小说，原创，网络，其他】； 随机则填写 ""
-  LITERARY_PREFERENCE: "网络"
+  LITERARY_PREFERENCE: ""
 
 
 }
