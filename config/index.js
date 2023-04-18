@@ -20,9 +20,9 @@ export const config = {
    *    // 想要发送的人的名字
    *    name: "小丸子",
    *    // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-   *    id: "ohxOO6VskYv0Kuf-ywIZVRMpuXhk",
+   *    id: "oIZoL69Gl34oEPNvOfDbdUQZV2xQ",
    *    // 你想对他发送的模板消息的模板ID
-   *    useTemplateId: "Xhnjl_6Zq8RXAzD-72DxpE0O25tu-DFcIJ5AQvORRE0",
+   *    useTemplateId: "pzsdrzMaT5189kFf7eL27IVZcimaW4R1MjQvkb6ytWc",
    *    // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
    *    openUrl: "https://www.heytea.com/"
    *   }, 
@@ -35,7 +35,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oIZoL69Gl34oEPNvOfDbdUQZV2xQ",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "Xhnjl_6Zq8RXAzD-72DxpE0O25tu-DFcIJ5AQvORRE0",
+      useTemplateId: "pzsdrzMaT5189kFf7eL27IVZcimaW4R1MjQvkb6ytWc0",
       // 所在省份
       province: "江苏",
       // 所在城市
